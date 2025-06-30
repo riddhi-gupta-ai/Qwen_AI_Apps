@@ -28,3 +28,10 @@ Both applications are designed to run locally using Ollama’s model deployment,
   - Real-time code generation
 
 ---
+## Notes and Learnings 
+
+[📝 View My Notes](https://github.com/riddhi-gupta-ai/Reading-Material/blob/main/Qwen%202.5%20Notes/HandWritten%20Notes.pdf)
+
+---
+## Skill Certificate 
+[View Certificate](https://github.com/riddhi-gupta-ai/Reading-Material/blob/main/Qwen%202.5%20Notes/Udemy%20Qwen%202.5.pdf)
